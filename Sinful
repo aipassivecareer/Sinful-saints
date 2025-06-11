@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sinful Saints - Kandiland</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { background: black; color: #e11434; font-family: 'Arial Black', Arial, sans-serif; margin: 0; }
+    .header { background: #e11434; color: #fff; padding: 1.5em 0 1em 0; font-size: 2em; letter-spacing: 2px; }
+    .bio {
+      background: #1a1a1a;
+      border-left: 7px solid #e11434;
+      margin: 2em auto 1em auto;
+      max-width: 550px;
+      padding: 2em 1.5em;
+      border-radius: 18px;
+      box-shadow: 0 2px 14px #e114345c;
+    }
+    h2 { margin-top: 0; }
+    .section {
+      padding: 2em 0;
+      border-bottom: 1px solid #e11434;
+      max-width: 650px;
+      margin: 0 auto;
+    }
+    .highlight { font-weight: bold; color: #fff; font-size: 1.1em; }
+    .footer { padding: 1.5em 0 2em 0; font-size: 1em; color: #666; text-align: center; }
+    .tagline { font-size: 1.35em; margin: 1.2em 0 0.5em 0; font-weight: bold; color: #ff5d88; }
+  </style>
+</head>
+<body>
+  <div class="header">👑 Duchess Kristianna: Finessing at Its Finest 👑</div>
+
+  <div class="bio">
+    <div class="tagline">Welcome to Kandiland, ruled by me—Duchess Kristianna—the original boss, comeback queen, and master of Sinful Saints.</div>
+    <p>
+      I’m a self-made inventor and single mom of two who built this empire from scratch, proving you don’t need a trust fund or tech degree to run the game—just wild ambition, confidence, and the guts to hustle when everyone else would quit. Here, royalty isn’t inherited—it’s earned.
+    </p>
+    <p class="highlight">
+      To every Little Darling and future queen:<br>
+      This is your playground. I built every inch of this for us—for women who aren’t afraid to break the rules, own their power, and get paid for their vibe. Here, every bot, every blog, every store and chatroom is a tool for you to get richer, bolder, and leave your own legacy.
+    </p>
+    <p>
+      I’m living proof you can finesse the world and turn nothing into passive income, music, and magic. <br>
+      <span class="highlight">Watch me—and then join me.</span>
+    </p>
+    <p style="margin-top:1em;font-size:1.1em;">
+      <strong>Step into your power, stack your coins, collect your crowns, and never forget:</strong> <br>
+      <span style="color:#ff5d88;">If you want the world, you gotta take it.</span>
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>🍭 Welcome to Sinful Saints: Kandiland</h2>
+    <p>Where our <span class="highlight">Little Darlings</span> rule in red & black glam, and every fantasy finds a home.</p>
+  </div>
+  <div class="section">
+    <h2>💬 Chatrooms</h2>
+    <p><strong>The Backroom:</strong> Private, verified creator network<br>
+       <strong>The Lounge:</strong> Reviews, tips, & client fun</p>
+  </div>
+  <div class="section">
+    <h2>🛍️ Sinful Store Sneak Peek</h2>
+    <p>Shop stripper heels, poles, lashes, glam kits, and beauty tools.</p>
+  </div>
+  <div class="section">
+    <h2>🤖 AI Fantasy Bots</h2>
+    <p>Seductive AI girlfriends. Sweet, sassy, and here for roleplay 24/7.</p>
+  </div>
+  <div class="section">
+    <h2>💰 Income Calculator & Tips</h2>
+    <p>Estimate your earnings. Auto-pilot your income. Finesse daily.</p>
+  </div>
+  <div class="footer">
+    © 2025 Sinful Saints - Kandiland | Designed for Royalty | “Finessing at its Finest. Join the family. Rule your world.”
+  </div>
+</body>
+</html>
